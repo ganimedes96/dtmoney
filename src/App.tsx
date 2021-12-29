@@ -5,7 +5,7 @@ import { GlobalStyle } from './styles/global';
 import { useState } from 'react'
 import { NewtransactionModal } from './components/NewTransactionModal';
 import Modal from 'react-modal'
-import { TransactionsProvider } from './TransactionContext';
+import { TransactionsProvider } from './components/hooks/useTransactions';
 
 
 
