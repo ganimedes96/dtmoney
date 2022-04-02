@@ -19,7 +19,7 @@
   <a href="#-license">License</a>
 </p>
 
-## <h2 align="center">
+ <h2 align="center">
 	<img alt="Logo" src="./src/assets/logo.svg" width="200px" />
 	About th project
 	
