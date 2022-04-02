@@ -45,7 +45,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/saymondamasio/dtmoney.git && cd dtmoney
+$ git clone https://github.com/ganimedes96/dtmoney && cd dtmoney
 ```
 
 **Follow the steps below to install the required dependencies**
