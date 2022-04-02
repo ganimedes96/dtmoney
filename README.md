@@ -19,7 +19,11 @@
   <a href="#-license">License</a>
 </p>
 
-## 👨🏻‍💻 About the project
+## <h2 align="center">
+	<img alt="Logo" src="./src/assets/logo.svg" width="200px" />
+	About th project
+	
+</h2>
 
 <p>Application built in React.js for simple and fast finance control. with this application you can register your input and output expenses.</p>
 
