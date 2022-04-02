@@ -2,9 +2,7 @@
 	<img alt="Logo" src="./src/assets/logo.svg" width="200px" />
 </h1>
 
-<h3 align="center">
-  DTMoney
-</h3>
+
 
 <p align="center">Controle suas finanças de forma simples</p>
 
@@ -23,7 +21,7 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>Uma aplicação para controle financeiro simples e rápido. Nela você pode cadastrar suas despesas entradas. Você pode também visualizar o seu balanço, ou seja, o seu saldo atual.</p>
+<p>Application built in React.js for simple and fast finance control. with this application you can register your input and output expenses.</p>
 
 ## 🚀 Technologies
 
