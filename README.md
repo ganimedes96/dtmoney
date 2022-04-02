@@ -7,5 +7,6 @@
 </h3>
 
 <p align="center">Controle suas finanças de forma simples.</p>
-##Video
-https://drive.google.com/file/d/18mndJJC376s6Oo8nb7ds08aUhAVOTqYj/view?usp=sharing
+
+https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
+
