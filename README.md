@@ -8,29 +8,11 @@
 
 <p align="center">Controle suas finanças de forma simples</p>
 
-https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
+ # https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saymondamasio/dtmoney">
 
-   <a href="https://www.linkedin.com/in/saymondamasio/">
-    <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Saymon%20Dam%C3%A1sio-green">
-  </a>
-  
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saymondamasio/dtmoney">
-  
-  <a href="https://github.com/saymondamasio/dtmoney/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saymondamasio/dtmoney">
-  </a>
-  
-  <a href="https://github.com/saymondamasio/dtmoney/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/saymondamasio/dtmoney">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/saymondamasio/dtmoney">
-</p>
 
+  
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
