@@ -8,7 +8,7 @@
 
 <p align="center">Controle suas finanças de forma simples</p>
 
- # https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
+ https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
 
 
 
@@ -66,10 +66,10 @@ $ yarn start
 $ git clone your-fork-url && cd dtmoney
 
 # Create a branch with your feature
-$ git checkout -b my-feature
+$ git checkout -b feature
 
 # Make the commit with your changes
-$ git commit -m 'feat: My new feature'
+$ git commit -m 'First Commit'
 
 # Send the code to your remote branch
 $ git push origin my-feature
