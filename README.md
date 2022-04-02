@@ -4,7 +4,8 @@
 
 
 
-<p align="center">Controle suas finanças de forma simples</p>
+<p align="center">Control your finances in a simple way
+</p>
 
  https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
 
