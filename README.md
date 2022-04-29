@@ -1,46 +1,89 @@
-# Getting Started with Create React App
+<h1 align="center">
+	<img alt="Logo" src="./src/assets/logo.svg" width="200px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">Control your finances in a simple way
+</p>
 
-### `yarn start`
+ https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+  
+<p align="center">
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ <h2 >
+	
+	About th project
+	
+</h2>
 
-### `yarn build`
+<p>Application built in React.js for simple and fast finance control. with this application you can register your input and output expenses.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Technologies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Technologies that I used to develop this web client
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://www.styled-components.com/)
+- [Eslint](https://eslint.org/)
+- [Express](https://expressjs.com/)
+- [Mirage.js](https://miragejs.com/)
 
-### `yarn eject`
+## 💻 Getting started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Requirements
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Clone the project and access the folder**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+$ git clone https://github.com/ganimedes96/dtmoney && cd dtmoney
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Follow the steps below to install the required dependencies**
 
-## Learn More
+```bash
+# Install the dependencies
+$ yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Be sure the file 'src/services/api.ts' have the IP to your API
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Start the client
+$ yarn start
+```
+
+
+**follow the steps below to clone the repository on your machine**
+
+```bash
+# Clone your fork
+$ git clone your-fork-url && cd dtmoney
+
+# Create a branch with your feature
+$ git checkout -b feature
+
+# Make the commit with your changes
+$ git commit -m 'First Commit'
+
+# Send the code to your remote branch
+$ git push origin my-feature
+```
+
+After your pull request is merged, you can delete your branch
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜 &nbsp;by Hudson Felix 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/hudson-felix-577305215/)
